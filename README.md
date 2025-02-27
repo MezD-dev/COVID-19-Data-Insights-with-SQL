@@ -96,9 +96,13 @@ This dataset provides global COVID-19 statistics, including:
 
 ---
 
-## 📌 **Author & Contact**
+## 📌 Author & Contact  
+
 **👤 Mezmure Dawit**  
 
 📧 Email: [mezmure221@gmail.com](mailto:mezmure221@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/mezmure-dawit](https://www.linkedin.com/in/mezmure-dawit/)  
-🔗 GitHub: [github.com/MezD-dev](https://github.com/MezD-dev) 
+🔗 GitHub: [github.com/MezD-dev](https://github.com/MezD-dev)  
+📊 Tableau Public: [View My Dashboard](https://public.tableau.com/app/profile/mezmure.dawit2832/viz/GlobalImpactofCOVID-19InfectionsDeathsAnalysis2020-2021/Dashboard1)  
+
+
