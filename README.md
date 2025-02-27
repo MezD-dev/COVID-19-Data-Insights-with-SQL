@@ -80,7 +80,6 @@ This repository demonstrates **technical proficiency in SQL, data analysis, and 
 ✔ **End-to-End Data Analysis** – From raw data extraction (**SQL**) to visualization (**Tableau**).  
 ✔ **Showcases Technical SQL Skills** – Uses **CTEs, Window Functions, Aggregates, and Joins**.  
 ✔ **Real-World Data** – Uses actual **COVID-19 datasets** to extract meaningful insights.  
-✔ **Portfolio-Worthy** – Highlights both **technical (SQL, Tableau) and analytical skills** for **data-driven roles**.  
 
 ---
 
